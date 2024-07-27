@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Haidhi</h1>
 <h3 align="center">I love machine learning</h3>
 
+currently learn: 
+- ROS2
+- Reinforcement Learning
+- Process Mining
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidhiskuy&label=Profile%20views&color=0e75b6&style=flat" alt="haidhiskuy" /> </p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/MangTamvan.png" alt="TryHackMe">
 <h3 align="left">Connect with me:</h3>
