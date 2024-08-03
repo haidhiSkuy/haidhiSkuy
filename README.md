@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Haidhi</h1>
 <h3 align="center">I love machine learning</h3>
 
-currently learn: 
+Strong in Python Language and currently learn:
+- Mastering C++, Cmake, etc.
 - ROS2
 - Reinforcement Learning
 - Process Mining
