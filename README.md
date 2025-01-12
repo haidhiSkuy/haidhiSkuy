@@ -3,9 +3,9 @@
 
 Strong in Python Language and currently learn:
 - Mastering C++, Cmake, etc.
-- ROS2
 - Reinforcement Learning
 - Process Mining
+- Assembly & Reverse Engineering
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidhiskuy&label=Profile%20views&color=0e75b6&style=flat" alt="haidhiskuy" /> </p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/MangTamvan.png" alt="TryHackMe">
